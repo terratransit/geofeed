@@ -1,6 +1,6 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805,,,,
 # lastupdated (rfc3339): 2026-01-28T13:49:30+01:00,,,,
-prefix,country,region,city,postal_code
+# prefix,country,region,city,postal_code
 2.56.236.0/24,US,US-TX,Dallas,
 2.56.237.0/24,US,US-TX,Dallas,
 2.56.238.0/24,US,US-TX,Dallas,
